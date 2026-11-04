@@ -1,0 +1,108 @@
+Protocol   Local Address : Local Port   State   Remote Address : Remote Port   Remote Host   Local Host   Pid   Program   Command
+---------------------------------------------------------------------------------------------------------------------------------
+
+2026-11-04  16:18:18
+---------------------
+tcp                   * : 5355    LISTEN                      * : *      .                      `  `  `   `
+tcp          127.0.0.53 : 53      LISTEN                      * : *      .                      `  `  `   `
+tcp          127.0.0.54 : 53      LISTEN                      * : *      .                      `  `  `   `
+tcp      172.20.155.130 : 38216   ESTABLISHED     34.107.243.93 : 443    93.243.107.34.bc.googleusercontent.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 55736   ESTABLISHED     104.18.23.112 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 52274   ESTABLISHED       2.23.245.90 : 443    a2-23-245-90.deploy.static.akamaitechnologies.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 53630   ESTABLISHED     34.54.185.247 : 443    247.185.54.34.bc.googleusercontent.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 33462   ESTABLISHED      216.150.1.65 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 58308   ESTABLISHED      104.18.87.42 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 48716   ESTABLISHED      3.174.47.131 : 443    server-3-174-47-131.fra60.r.cloudfront.net   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp      172.20.155.130 : 41514   CLOSED          34.149.66.163 : 443    163.66.149.34.bc.googleusercontent.com   `  `  `   `
+tcp      172.20.155.130 : 41528   CLOSED          34.149.66.163 : 443    163.66.149.34.bc.googleusercontent.com   `  `  `   `
+tcp      172.20.155.130 : 41530   CLOSED          34.149.66.163 : 443    163.66.149.34.bc.googleusercontent.com   `  `  `   `
+tcp      172.20.155.130 : 51134   CLOSED           3.233.158.26 : 443    ec2-3-233-158-26.compute-1.amazonaws.com   `  `  `   `
+tcp      172.20.155.130 : 51136   CLOSED           3.233.158.26 : 443    ec2-3-233-158-26.compute-1.amazonaws.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6                  * : 5355    LISTEN                      * : *      .                      `  `  `   `
+tcp6                  * : 1716    LISTEN                      * : *      .                      `  1138  kdeconnectd   /usr/bin/kdeconnectd 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 59224   ESTABLISHED  2a00:1398:9:fd70::78 : 443    collab-proxy.scc.kit.edu   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 37922   ESTABLISHED  2a04:4e42:8d::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 37932   ESTABLISHED  2a04:4e42:8d::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 45506   ESTABLISHED  2a04:4e42:8d::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 45338   ESTABLISHED  2a00:86c0:2043::1 : 443    prod.ftl4.netflix.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 47706   ESTABLISHED  2606:4700:4403::6812:2089 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 52124   CLOSED       2a00:86c0:2091::1 : 443    occ.a.nflxso.net       `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 52134   CLOSED       2a00:86c0:2091::1 : 443    occ.a.nflxso.net       `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 49196   ESTABLISHED  2606:4700:440a::6812:2019 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 33358   CLOSED       2a00:86c0:2091::1 : 443    occ.a.nflxso.net       `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 33366   CLOSED       2a00:86c0:2091::1 : 443    occ.a.nflxso.net       `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 51010   ESTABLISHED  2a02:ec80:300:ed1a::1 : 443    text-lb.esams.wikimedia.org   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 49302   ESTABLISHED  2a02:ec80:300:ed1a::2:b : 443    upload-lb.esams.wikimedia.org   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 59872   ESTABLISHED  2a04:4e42:8d::444 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38076   ESTABLISHED  2a02:26f0:480:596::16e : 443    g2a02-26f0-0480-0596-0000-0000-0000-016e.deploy.static.akamaitechnologies.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 45854   ESTABLISHED  2600:9000:20f1:9000:7:2bfb:7c00:93a1 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 52630   ESTABLISHED  2a02:26f0:480:596::16e : 443    g2a02-26f0-0480-0596-0000-0000-0000-016e.deploy.static.akamaitechnologies.com   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 53824   ESTABLISHED  2a04:4e42:8d::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 40856   TIME_WAIT    2a00:1450:4001:c25::5f : 443    lcfraw-in-f95.1e100.net   `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 44892   ESTABLISHED    2a04:4e42::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 53286   TIME_WAIT    2a00:1450:4001:c17::5f : 443    bx-in-f95.1e100.net    `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 47852   ESTABLISHED  2a04:4e42:200::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 33266   ESTABLISHED  2a00:1398:b::8d03:8781 : 443    www.bwsyncandshare.kit.edu   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 50816   ESTABLISHED  2a04:4e42:8d::347 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 43142   ESTABLISHED  2606:4700:3031::ac43:891e : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 50894   CLOSED       2001:7c0:5f0:f020::20:26 : 443    moodlesrv-01.htwg-konstanz.de   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38216   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38226   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38240   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38254   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38288   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38292   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38318   TIME_WAIT    2600:9000:2013:b600:a:dd3c:6480:93a1 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 37586   ESTABLISHED  2606:4700:4403::6812:2089 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 41998   TIME_WAIT    2a00:1450:4001:c25::61 : 443    lcfraw-in-f97.1e100.net   `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 37594   TIME_WAIT    2606:4700:4403::6812:2089 : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 37598   ESTABLISHED  2606:4700:4403::6812:2089 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 52436   ESTABLISHED  2a00:1450:4001:c0f::79 : 443    bt-in-f121.1e100.net   `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 38638   ESTABLISHED  2607:f2d8:4010:51::5 : 443    api64.ipify.org        `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 40108   ESTABLISHED  2600:9000:2359:7400:9:9214:f0d6:9021 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 36560   ESTABLISHED  2600:1901:0:5ae7:: : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 60180   CLOSED       2001:4860:4841:400:: : 443    .                      `  `  `   `
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 60054   ESTABLISHED  2600:1f18:24e6:b900:633c:1d50:cbd8:2a53 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+tcp6   2001:7c0:5f0:f128:a64e:9f9:f50:66c9 : 60062   ESTABLISHED  2600:1f18:24e6:b900:633c:1d50:cbd8:2a53 : 443    .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp          127.0.0.54 : 53                                  * : *      .                      `  `  `   `
+udp          127.0.0.53 : 53                                  * : *      .                      `  `  `   `
+udp      10.224.114.241 : 68      ESTABLISHED      10.224.112.3 : 67     .                      `  `  `   `
+udp      172.20.155.130 : 68      ESTABLISHED      141.37.10.97 : 67     zd-02.htwg-konstanz.de   `  `  `   `
+udp                   * : 5353                                * : *      .                      `  `  `   `
+udp                   * : 5353                                * : *      .                      `  `  `   `
+udp                   * : 5355                                * : *      .                      `  `  `   `
+udp                   * : 42884                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp                   * : 44606                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp                   * : 40216                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp      172.20.155.130 : 48834   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp                   * : 43441                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp      172.20.155.130 : 52831   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 46681   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 58425   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp                   * : 34982                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp      172.20.155.130 : 59795   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 54260   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 38763   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 56490   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp                   * : 57247                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp      172.20.155.130 : 49072   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 58573   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 59164   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 52782   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp      172.20.155.130 : 37146   ESTABLISHED       141.37.11.1 : 53     dns-01.htwg-konstanz.de   `  `  `   `
+udp6                  * : 1716                                * : *      .                      `  1138  kdeconnectd   /usr/bin/kdeconnectd 
+udp6                  * : 5353                                * : *      .                      `  `  `   `
+udp6                  * : 5353                                * : *      .                      `  `  `   `
+udp6                  * : 5355                                * : *      .                      `  `  `   `
+udp6                  * : 54863   CLOSED                      * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 32833                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 36047                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 49632                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 34144                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 47489                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 32940                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 49932                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 59546                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 33187                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+udp6                  * : 52860                               * : *      .                      `  1340  firefox   /usr/lib/firefox/firefox 
+
