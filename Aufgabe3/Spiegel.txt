@@ -1,0 +1,6 @@
+Protocol   Local Address : Local Port   State   Remote Address : Remote Port   Remote Host   Local Host   Pid   Program   Command
+---------------------------------------------------------------------------------------------------------------------------------
+
+2026-11-10  14:08:07
+---------------------
+
